@@ -1,0 +1,30 @@
+#Palabras random sobre comida para elegir
+palabra = ['AVELLANA',
+ 'PAN',
+ 'PERA',
+ 'LANGOSTINOS',
+ 'ALMENDRAS',
+ 'TORTILLA',
+ 'CERVEZA',
+ 'GLUTEN',
+ 'PATATAS',
+ 'VINO',
+ 'TERNERA',
+ 'CERDO',
+ 'CORDERO',
+ 'LECHE',
+ 'ARANDANOS',
+ 'LECHUGA',
+ 'TOMATE',
+ 'GUISANTES',
+ 'SAL',
+ 'ACEITE',
+ 'AZUCAR',
+ 'NARANJA',
+ 'SARDINAS',
+ 'SANDIA',
+ 'MELON',
+ 'CASTAÑAS']
+
+
+alfabeto = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
